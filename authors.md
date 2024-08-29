@@ -1,7 +1,7 @@
 ---
 layout: authors
-title: Authors
-description: The authors page for mere blog theme
+title: Principle Investigator
+description: The Principle Investigator page for zhang lab
 ---
 
 This is the authors page.
