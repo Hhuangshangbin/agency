@@ -41,7 +41,6 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "C.S. Rhymes"
       layout: post
       image: /img/home.jpg
       show_sidebar: true
@@ -51,6 +50,7 @@ defaults:
       type: "authors"
     values:
       layout: "author"
+      show_sidebar: true
 
 collections:
   authors:
