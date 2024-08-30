@@ -1,5 +1,4 @@
 ---
----
 layout: author
 short_name: C.S. Rhymes
 title: C.S. Rhymes - web dev and author
