@@ -55,8 +55,6 @@ defaults:
 collections:
   authors:
     output: true
-  principal_investigators:
-    output: true
 
 
 
