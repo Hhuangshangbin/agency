@@ -1,7 +1,7 @@
 ---
 layout: authors
-title: Principle Investigator
-description: The Principle Investigator page for zhang lab
+title: Students
+description: Students page for zhang lab
 image: /img/post1.png
 hero_image: /img/post1.png
 ---
