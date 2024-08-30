@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Development of Precision Diagnostic and Risk Prediction Models for Cardiovascular Diseases Based on Multi-Omics Data
+title: Application of Genome Editing in Precision Oncology：CRISPR-Cas9 Targeted Therapy
 image: /img/post2.png
 ---
 
