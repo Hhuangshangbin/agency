@@ -53,10 +53,7 @@ defaults:
       layout: "author"
 
 collections:
-  -
-    buthors:
-      output: true
-  -
-    posts:
-      output: true
+  authors:
+    output: true
+
 
