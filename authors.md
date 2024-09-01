@@ -6,4 +6,4 @@ image: /img/post1.png
 hero_image: /img/post1.png
 ---
 
-This is the The Principle Investigator page for zhang lab
+This is the Sutdents page for zhang lab
