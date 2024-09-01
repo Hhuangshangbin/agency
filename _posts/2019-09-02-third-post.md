@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Development of Precision Diagnostic and Risk Prediction Models for Cardiovascular Diseases Based on Multi-Omics Data
-image: /img/post3.png
+image: /img/meet1.png
 ---
 
 
